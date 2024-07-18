@@ -1,4 +1,4 @@
-# picoCTF Writeup
+# PicoCTF-Writeup
 
 Currently working on completing the picoCTF practice writeup for all of the challenges.
 
