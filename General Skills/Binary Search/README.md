@@ -27,7 +27,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/442?category=5&diff
 
 First, I downloaded the challenges zip file and tried to edit the bash script to print the target number directly, but it didn't work. Instead, I had to guess the number. So, I guessed numbers from 1 to 1000 with the help of feedback to determine if my guess was higher or lower, and I found the flag.
 
-<img src="solution.jpg" width="300" />
+<img src="solution.jpg" width="500" />
 
 ## References
 
