@@ -1,4 +1,4 @@
-# picoCTF 2024 Writeup
+# picoCTF Writeup
 
 Currently working on completing the picoCTF practice writeup for all of the challenges.
 
