@@ -24,7 +24,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/414?category=5&page
 
 ## Solution
 
-just type the text to hex into the given word in little endian and big endian and you got the flag
+Just convert the given word to hex in both little endian and big endian formats to get the flag. In little endian, the hex is reversed, while in big endian, it is not reversed.
 
 <img src="endianness.jpg" width="500" />
 
