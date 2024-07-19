@@ -33,6 +33,7 @@ Convert the given binary number by its operations to get the flag. You need to k
 - [Bitwise AND (&)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND)
 - [Binary Calculator](https://www.calculator.net/binary-calculator.html?number1=11001010&c2op=%2B&number2=01101010&calctype=op&x=Calculate)
 - [Bitwise Calculator](https://miniwebtool.com/bitwise-calculator/)
+- [Binary to Hex converter](https://www.rapidtables.com/convert/number/binary-to-hex.html?x=110010100)
 
 ## Flag
 
