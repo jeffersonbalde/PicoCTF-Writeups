@@ -25,7 +25,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/411?category=5&page
 
 ## Solution
 
-Just type ```git log --follow -p -- <file> in the Linux command line to see the change history of a file, and you will find the flag.
+Just type ``git log --follow -p -- <file>`` in the Linux command line to see the change history of a file, and you will find the flag.
 
 <img src="commitment_issues.jpg" width="500" />
 
