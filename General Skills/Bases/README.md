@@ -1,4 +1,4 @@
-    # Bases
+# Bases
 
 - [Challenge information](#challenge-information)
 - [Solution](#solution)
