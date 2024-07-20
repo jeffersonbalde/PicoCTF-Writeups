@@ -83,6 +83,29 @@
 
 
 
+
+# <span style="color:">Create Symlink File Command</span>
+
+<!-- #### ``grep 'picoCTF' file;`` -->
+#### <span style="color:green">ln -s /root/flag.txt banner</span>
+
+## Example
+
+<img src="symlink.jpg" width="500" />
+
+## References
+
+- [Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]](https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/)
+
+
+
+
+
+################################################################################################################################
+
+
+
+
 # <span style="color:">Find the Commit which Introduced a Bug command</span>
 
 <!-- #### ``git blame message.py`` -->
