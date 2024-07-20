@@ -225,6 +225,38 @@
 
 
 
+## - [Binary to Text Translator](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+
+
+
+
+########################################################################
+
+
+
+
+## - [Hex To Text](https://www.duplichecker.com/hex-to-text.php)
+
+
+
+
+########################################################################
+
+
+
+
+## - [Octal to Text Converter](https://onlinetexttools.com/convert-octal-to-text)
+
+
+
+
+########################################################################
+
+
+
+
+
+
 
 
 
